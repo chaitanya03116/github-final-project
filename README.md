@@ -1,4 +1,27 @@
-# Simple Interest Calculator
+# Paradise Nursery
+
+A React and Redux houseplant shopping experience with a landing page,
+categorized plant listings, and a fully interactive shopping cart.
+
+## Features
+
+- Six unique plants in each of three categories
+- Add-to-cart buttons with disabled state after selection
+- Dynamic cart item count
+- Quantity controls, removal, totals, and checkout placeholder
+- Responsive landing, product, and cart pages
+
+## Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+## Repository exercises
+
+The repository also includes the simple-interest calculator from the earlier
+Git and GitHub exercise.
 
 A small Bash command-line program that calculates simple interest from a principal amount, an annual rate of interest, and a time period.
 
